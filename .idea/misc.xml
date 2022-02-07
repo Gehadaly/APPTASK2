@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/dynamo/AndroidStudioProjects/APPTASK2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/dynamo/AndroidStudioProjects/APPTASK2/app/src/main/res/layout/itemview.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/dynamo/AndroidStudioProjects/APPTASK2/app/src/main/res/layout/resycleview.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/dynamo/AndroidStudioProjects/APPTASK2/app/src/main/res/layout/resyclview.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/dynamo/AndroidStudioProjects/APPTASK2/app/src/main/res/layout/taskoneuidesig.xml" value="0.17028985507246377" />
       </map>
     </option>
   </component>

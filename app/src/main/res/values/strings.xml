@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">APPTASK</string>
+    <string name="password">password</string>
+    <string-array name="names_item">
+        <item>GEHD</item>
+        <item>IBRAHIM</item>
+        <item>ALI</item>
+        <item>YASSEN</item>
+        <item>HAMZA</item>
+        <item>DAREEN</item>
+        <item>LAWRA</item>
+        <item>AMR</item>
+        <item>ISRAA</item>
+        <item>GHADA</item>
+        <item>GEHD</item>
+        <item>IBRAHIM</item>
+        <item>ALI</item>
+        <item>YASSEN</item>
+        <item>HAMZA</item>
+        <item>DAREEN</item>
+        <item>LAWRA</item>
+        <item>AMR</item>
+        <item>ISRAA</item>
+        <item>GHADA</item>
+        <item>GEHD</item>
+        <item>IBRAHIM</item>
+        <item>ALI</item>
+        <item>YASSEN</item>
+        <item>HAMZA</item>
+        <item>DAREEN</item>
+        <item>LAWRA</item>
+        <item>AMR</item>
+        <item>ISRAA</item>
+        <item>GHADA</item>
+    </string-array>
 </resources>
